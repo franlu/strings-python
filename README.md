@@ -14,4 +14,4 @@ strings-python
 
 Referencias
 -----------
-* (http://docs.python.org/3/library/string.html "Python String Library ")
+* [ Python String Library ] (http://docs.python.org/3/library/string.html)
