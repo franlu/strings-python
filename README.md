@@ -15,3 +15,4 @@ strings-python
 Referencias
 -----------
 * [ Python String Library ] (http://docs.python.org/3/library/string.html)
+* [ Python String Format] (http://mkaz.com/solog/python-string-format)
