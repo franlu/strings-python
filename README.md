@@ -11,3 +11,7 @@ strings-python
 ###pyStrings02.py
 
 * Se leen 50 caracteres y se eliminan todos los separadores. Se consideran separadores espacios en blanco, tabuladores y retorno. 
+
+Referencias
+-----------
+* (http://docs.python.org/3/library/string.html "Python String Library ")
