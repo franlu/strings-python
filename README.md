@@ -36,19 +36,20 @@ strings-python
 
 ###pyStrings10.py
 * Leer una cadena, y hacer una estadística sobre cuantas veces aparece cada caracter, mostrando el resultado de mayor a menor respetando la alineación a la derecha de los números. Por ejemplo, para "nosotros no somos como los orozco, yo los conozco, son ocho los monos", debería mostrar:
- o 23
-   12
- s  9
- n  5
- c  5
- m  3
- l  3
- z  2
- r  2
- ,  2
- y  1
- t  1
- h  1
+
+   1. o 23
+   2.   12
+   3. s  9
+   4. n  5
+   5. c  5
+   6. m  3
+   7. l  3
+   8. z  2
+   9. r  2
+   10. ,  2
+   11. y  1
+   12. t  1
+   13. h  1
 
 Referencias
 -----------
