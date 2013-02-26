@@ -10,7 +10,11 @@ strings-python
 
 ###pyStrings02.py
 
-* Se leen 50 caracteres y se eliminan todos los separadores. Se consideran separadores espacios en blanco, tabuladores y retorno. 
+* Se leen 50 caracteres y se eliminan todos los separadores. Se consideran separadores espacios en blanco, tabuladores y retorno.
+
+###pyStrings03.py
+* Traductor de latin. Dada una palabra si acaba en consonante, se le añade `us` si acaba en vocal, se suprime dicha vocal y se añade `us`.
+  Ej. El diccionario, pasaría a Elus Diccionarius.
 
 Referencias
 -----------
