@@ -1,9 +1,8 @@
 strings-python
 --------------
 
-10 ejemplos sobre cadenas de caracteres en python
-
-
+Una lista de 10 ejercicios para practicar con cadenas de caracteres en Python.
+A list of 10 exercises to practice with strings in Python. 🇬🇧
 ### pyStrings01.py
 
 * Consiste en eliminar los espacios en blanco iniciales en una cadena. Por ejemplo, la cadena '   Python rocks!' quedaría 'Python rocks!'
